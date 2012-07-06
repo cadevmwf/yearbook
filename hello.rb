@@ -1,3 +1,10 @@
+require './student.rb'
+
+# CHALLENGE: Try to use the Student.all method
+# to get the list of students
+# and change this code to use the list instead
+# of the hardcoded array below.
+
 array_of_student_hashes = [
     {
       'first_name'  => 'Ian', 
@@ -85,3 +92,14 @@ end
 
 output_to_terminal(array_of_student_hashes)
 output_to_browser(array_of_student_hashes)
+
+
+
+
+
+
+
+
+
+
+
